@@ -1,5 +1,5 @@
 # SalesData
-This repo contains analysis of pubically available sales data to force myself to think
+This repo contains analysis of publicly available sales data to force myself to think
 through a question I received
 
 ## Data
